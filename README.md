@@ -1,5 +1,3 @@
-### Hi there 👋
-
 My name is Gabriel, i'm from Argentina. I like movies, sports, technology, but what I like the most is being a PROGRAMMER.
 
 # Skills:
