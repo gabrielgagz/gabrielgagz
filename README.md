@@ -7,3 +7,8 @@ My name is Gabriel, i'm from Argentina. I like movies, sports, technology, but w
 * Front-end (HTML, CSS, Javascript, Bootstrap, React Js). 
 * Backend (PHP, Java, Python, Node.js, (No)SQL).
 * Others: GNU/Linux / Bash Scripting, Scrum (Scrum Master certified).
+
+# Contact
+
+* E-mail: g.a.gomez@gmail.com
+* Linkedin: https://www.linkedin.com/in/gabrielgagz/
